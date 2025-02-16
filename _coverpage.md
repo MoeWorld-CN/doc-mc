@@ -8,7 +8,7 @@
 
 - 泛版本支持 Java 版 1.13-1.20.x
 - 跨平台 支持 Bedrock
-- ~~混合登录 正版登录与~~外置登录~~共存~~
+- 混合登录 正版登录与外置登录 共存
 
 [博客](https://blog.moeworld.tech/)
 [皮肤站](https://skin.moeworld.top/)
